@@ -5,7 +5,6 @@ export default function Assignations() {
         <>
             <Header title={"Assignations"} />
             <div>
-                <p>Zany ary ny assignations page eh !</p>
             </div>
         </>
     );
