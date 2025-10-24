@@ -1,17 +1,3 @@
-// import { NavLink } from "react-router-dom";
-
-// export default function Sidebar() {
-//   return (
-//     <div className="sidebar">
-//       <div>
-//         <h2>TASK Management</h2>
-//       </div>
-//       <button>Assignations</button>
-//       <button>Reporting</button>
-//     </div>
-//   );
-// }   
-
 import { NavLink } from "react-router-dom";
 import ListAltIcon from "@mui/icons-material/ListAlt";
 import BarChartIcon from "@mui/icons-material/BarChart";

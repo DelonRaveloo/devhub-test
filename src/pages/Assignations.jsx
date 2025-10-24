@@ -4,7 +4,8 @@ export default function Assignations() {
     return (
         <>
             <Header title={"Assignations"} />
-            <div>
+            <div className="my-4">
+                <p>Zany ary ny Assignations page eh !</p>
             </div>
         </>
     );
