@@ -13,6 +13,7 @@ import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 import CircularProgress from '@mui/material/CircularProgress';
 import StatCards from "../components/StatCards";
+import MonthlyTaskChart from "../components/MonthlyTaskChart";
 
 export default function Reporting() {
     const [matricule, setMatricule] = React.useState('');
@@ -156,7 +157,8 @@ export default function Reporting() {
                     )}
                 </Dialog>
             </div>
-            <StatCards />       
+            <StatCards /> 
+            <MonthlyTaskChart />      
         </>
     );
 }
