@@ -9,6 +9,7 @@ export default function StatCards() {
                 <div>
                 <p className="text-gray-500 text-sm">Nombre de tâches</p>
                 <h2 className="text-3xl font-bold text-gray-800 mt-2">125</h2>
+                <p className="text-green-500 text-sm">Tâche traitée : 98</p>
                 </div>
                 <AssignmentTurnedInIcon className="text-blue-500" sx={{ fontSize: 40 }} />
             </div>
