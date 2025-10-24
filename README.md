@@ -23,7 +23,7 @@ Utilise **React**, **Material UI**, **Tailwind CSS** et **MUI X Charts**.
 ## Lancer le projet
 
 ```bash
-git clone <URL_DU_REPO>
-cd nom-du-projet
+git clone https://github.com/DelonRaveloo/devhub-test.git
+cd devhub-test
 npm install
 npm run dev
